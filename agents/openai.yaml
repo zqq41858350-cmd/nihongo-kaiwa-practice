@@ -1,0 +1,7 @@
+interface:
+  display_name: "日语口语训练台"
+  short_description: "内置话题预习、引导对话、间隔复习与21天口语成长追踪"
+  default_prompt: "使用 $nihongo-kaiwa-practice 选择一个日语话题，先预习再开始口语练习。"
+
+policy:
+  allow_implicit_invocation: true
